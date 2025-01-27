@@ -4,15 +4,7 @@
 
 ### Descripcion 
  Este proyecto tiene como objetivo investigar y visualizar los datos relacionados con el hundimiento del Titanic, una de las mayores tragedias marítimas de la historia. Se explorarán factores como las características de los pasajeros (edad, sexo, clase social), la ubicación de las cabinas, y su relación con la supervivencia.
-
-<<<<<<< HEAD
-### Datos 
-Se utilizó un conjunto de datos que incluye información sobre 891 pasajeros, como edad, sexo, clase, tarifa y si sobrevivieron o no. Se realizaron las siguientes tareas de preprocesamiento:
-
-* Eliminación de duplicados.
-* Imputación de valores faltantes para la edad utilizando la mediana.
-* Codificación de variables categóricas (sexo, clase).
-=======
+ 
 --Cambios Alex
 
 # 🌌 Análisis Titanic
@@ -32,4 +24,3 @@ Bienvenido a **Análisis Titanic**, un proyecto diseñado para realizar análisi
 ¿Que os parece el cambio chic@s?
 >>>>>>> 3d340bbba9fcf1f6b1dd9a2c1b7b05b95aa481b5
 
-Me parece bien, ¿como nos dividimos los cambios entonces?
