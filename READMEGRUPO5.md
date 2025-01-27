@@ -24,4 +24,12 @@ Bienvenido a **Análisis Titanic**, un proyecto diseñado para realizar análisi
 ¿Que os parece el cambio chic@s?
 >>>>>>> 3d340bbba9fcf1f6b1dd9a2c1b7b05b95aa481b5
 
+-- cambios miguel 
+## 1.
 
+El objetivo principal de este análisis es comprender qué factores influyeron en la supervivencia de los pasajeros del Titanic. Al examinar los datos de los supervivientes, podemos identificar patrones y tendencias que nos permitan responder preguntas como:
+
+¿Qué características compartían los supervivientes? Edad, sexo, clase social, etc.
+¿Existió alguna relación entre la ubicación en el barco y la supervivencia?
+¿Influyó la tarifa del pasaje en las posibilidades de sobrevivir?
+¿Hubo alguna diferencia en la supervivencia entre los diferentes puertos de embarque?
