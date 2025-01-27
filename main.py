@@ -4,7 +4,8 @@ import pandas as pd
 
 titanic = pd.read_csv("titanic.csv")
 
-st.title("Titanic, Supervivientes:")
+# Título de la aplicación
+st.title("🚢 Titanic: Exploración de Datos")
 
 """
  Objetivo: Usando https://docs.streamlit.io/develop/api-reference crear 3 elementos para mostrar datos de Titanic.
