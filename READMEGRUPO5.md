@@ -24,3 +24,5 @@ Bienvenido a **Análisis Titanic**, un proyecto diseñado para realizar análisi
 ¿Que os parece el cambio chic@s?
 >>>>>>> 3d340bbba9fcf1f6b1dd9a2c1b7b05b95aa481b5
 
+Muy bien todo arreglado, que parte hacemos cada uno?
+
