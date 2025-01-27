@@ -33,3 +33,23 @@ El objetivo principal de este análisis es comprender qué factores influyeron e
 ¿Existió alguna relación entre la ubicación en el barco y la supervivencia?
 ¿Influyó la tarifa del pasaje en las posibilidades de sobrevivir?
 ¿Hubo alguna diferencia en la supervivencia entre los diferentes puertos de embarque?
+
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Cargar los datos
+data = pd.read_csv('titanic.csv')
+
+# Análisis exploratorio
+sns.countplot(x='Survived', data=data)
+plt.title('Distribución de la Supervivencia')
+plt.show()
+
+# Comparación de la supervivencia por sexo
+sns.barplot(x='Sex', y='Survived', data=data)
+plt.title('Tasa de Supervivencia por Sexo')
+plt.show()
+````
