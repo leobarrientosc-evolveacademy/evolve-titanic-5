@@ -34,6 +34,10 @@ El objetivo principal de este análisis es comprender qué factores influyeron e
 ¿Influyó la tarifa del pasaje en las posibilidades de sobrevivir?
 ¿Hubo alguna diferencia en la supervivencia entre los diferentes puertos de embarque?
 
+# cambios Jose  
+
+
+
 
 ```python
 import pandas as pd
