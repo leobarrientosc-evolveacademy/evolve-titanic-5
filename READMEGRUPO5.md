@@ -5,16 +5,31 @@
 ### Descripcion 
  Este proyecto tiene como objetivo investigar y visualizar los datos relacionados con el hundimiento del Titanic, una de las mayores tragedias marítimas de la historia. Se explorarán factores como las características de los pasajeros (edad, sexo, clase social), la ubicación de las cabinas, y su relación con la supervivencia.
 
+<<<<<<< HEAD
 ### Datos 
 Se utilizó un conjunto de datos que incluye información sobre 891 pasajeros, como edad, sexo, clase, tarifa y si sobrevivieron o no. Se realizaron las siguientes tareas de preprocesamiento:
 
 * Eliminación de duplicados.
 * Imputación de valores faltantes para la edad utilizando la mediana.
 * Codificación de variables categóricas (sexo, clase).
+=======
+--Cambios Alex
 
-### Análisis Exploratorio
-A través de histogramas, diagramas de caja y gráficos de barras, se observó que:
+# 🌌 Análisis Titanic
 
-* La tasa de supervivencia era significativamente mayor para las mujeres y los niños.
-* Los pasajeros de primera clase tenían una mayor probabilidad de sobrevivir.
-* La edad también influyó en la supervivencia, con los niños y los adultos jóvenes teniendo mayores tasas de supervivencia.
+Bienvenido a **Análisis Titanic**, un proyecto diseñado para realizar análisis estadísticos de un conjunto de datos — el legendario Titanic. Este proyecto también tiene como objetivo reforzar prácticas de control de versiones con Git y GitHub. 🚀
+
+---
+
+## 🔍 Objetivos del Proyecto
+
+1. Realizar análisis estadísticos del archivo CSV con información de los pasajeros del Titanic.
+2. Visualizar patrones y tendencias a partir de los datos.
+3. Practicar técnicas de versionado de código con Git y GitHub.
+
+---
+
+¿Que os parece el cambio chic@s?
+>>>>>>> 3d340bbba9fcf1f6b1dd9a2c1b7b05b95aa481b5
+
+Me parece bien, ¿como nos dividimos los cambios entonces?
