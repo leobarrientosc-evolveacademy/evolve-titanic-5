@@ -1,3 +1,2 @@
-## ACERCA DE 
+ ## Supervivientes del accidente TITANIC
 
-Supervivientes del accidente Titanic
