@@ -26,3 +26,5 @@ Bienvenido a **Análisis Titanic**, un proyecto diseñado para realizar análisi
 
 Muy bien todo arreglado, que parte hacemos cada uno?
 
+
+
